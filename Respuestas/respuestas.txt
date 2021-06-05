@@ -1,0 +1,13 @@
+● ¿Por qué deberíamos utilizar ReactJS?
+	Ayuda a tener una programación mas funcional, se puede compartir código entre front y back end
+● ¿Qué es JSX?
+	Es una extensión de sintaxis, compatible con React
+● ¿Qué es un "estado"?
+	En pocas palabras es como se encuentra dicho objeto, su "status", una configuración única en un programa
+● ¿Qué es una "función de flecha"?
+	Es una forma más compacta de hacer uso de una exppresión de una función normal, en C# conocida como Funcion Lambda
+● ¿Para qué se utiliza "setState"?
+	Se utiliza para actualizar la interfaz del usuario interactuando con los manejadores de eventos y las respuestas del servidor
+● ¿Qué son los "props"?
+	Es un patrón utilizado para React, da la instrucción para compartir código entre componentes, o bien para modificar propiedades 
+	nativas de JavaScript como en jQuery
